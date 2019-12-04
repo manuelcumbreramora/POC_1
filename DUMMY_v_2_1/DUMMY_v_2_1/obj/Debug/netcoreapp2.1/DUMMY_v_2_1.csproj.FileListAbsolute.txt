@@ -1,0 +1,17 @@
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\bin\Debug\netcoreapp2.1\DUMMY_v_2_1.deps.json
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\bin\Debug\netcoreapp2.1\DUMMY_v_2_1.runtimeconfig.json
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\bin\Debug\netcoreapp2.1\DUMMY_v_2_1.runtimeconfig.dev.json
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\bin\Debug\netcoreapp2.1\DUMMY_v_2_1.dll
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\obj\Debug\netcoreapp2.1\DUMMY_v_2_1.csprojAssemblyReference.cache
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\obj\Debug\netcoreapp2.1\DUMMY_v_2_1.RazorAssemblyInfo.cache
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\obj\Debug\netcoreapp2.1\DUMMY_v_2_1.RazorAssemblyInfo.cs
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\obj\Debug\netcoreapp2.1\DUMMY_v_2_1.AssemblyInfoInputs.cache
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\obj\Debug\netcoreapp2.1\DUMMY_v_2_1.AssemblyInfo.cs
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\obj\Debug\netcoreapp2.1\DUMMY_v_2_1.RazorTargetAssemblyInfo.cache
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\bin\Debug\netcoreapp2.1\DUMMY_v_2_1.pdb
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\obj\Debug\netcoreapp2.1\DUMMY_v_2_1.dll
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\obj\Debug\netcoreapp2.1\DUMMY_v_2_1.pdb
+C:\Proyectos\Poc_DUMMY_v_2_1\DUMMY_v_2_1\DUMMY_v_2_1\bin\Debug\netcoreapp2.1\log4net.config
