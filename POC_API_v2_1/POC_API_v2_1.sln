@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC_API_v2_1", "POC_API_v2_1\POC_API_v2_1.csproj", "{1ABD88E1-9247-49D5-BB31-194D12D12788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestPROC_Api", "NUnitTestPROC_Api\NUnitTestPROC_Api.csproj", "{7BA606CB-F6D2-4F9D-B39F-4A6A932A2609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABD88E1-9247-49D5-BB31-194D12D12788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABD88E1-9247-49D5-BB31-194D12D12788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABD88E1-9247-49D5-BB31-194D12D12788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABD88E1-9247-49D5-BB31-194D12D12788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA606CB-F6D2-4F9D-B39F-4A6A932A2609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA606CB-F6D2-4F9D-B39F-4A6A932A2609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA606CB-F6D2-4F9D-B39F-4A6A932A2609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA606CB-F6D2-4F9D-B39F-4A6A932A2609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F3E5DC9-41B1-41D6-BD87-398D00B500C0}
+	EndGlobalSection
+EndGlobal
